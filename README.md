@@ -2,7 +2,7 @@
 Car detection project comparing Faster R-CNN and DETR on the KITTI dataset.
 
 ## Dataset
-- **KITTI Dataset (https://www.cvlibs.net/datasets/kitti/)**
+- **[KITTI Dataset](https://www.cvlibs.net/datasets/kitti/)**
 - Contains images and bounding boxes for cars.
 
 ## Model Comparison
