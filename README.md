@@ -13,7 +13,16 @@ Car detection project comparing Faster R-CNN and DETR on the KITTI dataset.
 
 **Read the full article [here](https://medium.com/your-article-url)**
 
+## Sample Predictions
+
+### Faster R-CNN
+![Faster R-CNN Result](https://github.com/Monisha-RK10/Faster-R-CNN-vs.-DETR-A-Practical-Lightweight-Benchmark-for-Real-World-Car-Detection-on-KITTI/blob/main/results/Faster_R-CNN/prediction1.png)
+![Faster R-CNN Result](https://github.com/Monisha-RK10/Faster-R-CNN-vs.-DETR-A-Practical-Lightweight-Benchmark-for-Real-World-Car-Detection-on-KITTI/blob/main/results/Faster_R-CNN/prediction2.png)
+
+### DETR
+![DETR Result](result_detr/sample1.png)
+
  **Try it in Colab**:
-- [Faster R-CNN Notebook](results/Faster_R-CNN/prediction1.png)
+- [Faster R-CNN Notebook](link)
 - [DETR Notebook](link)
 
