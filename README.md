@@ -1,3 +1,6 @@
+# Faster R-CNN vs. DETR: A Practical Lightweight Benchmark for Real-World Car Detection on KITTI
+Car detection project comparing Faster R-CNN and DETR on the KITTI dataset.
+
 ## Dataset
 - **KITTI Dataset**
 - Contains images and bounding boxes for cars.
