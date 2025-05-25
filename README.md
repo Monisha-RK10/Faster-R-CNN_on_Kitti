@@ -28,5 +28,5 @@ Car detection project comparing Faster R-CNN and DETR on the KITTI dataset.
 
  **Try it in Colab**:
 - [Faster R-CNN Notebook](notebooks/Faster_R_CNN_on_Kitti.ipynb)
-- [DETR Notebook](link)
+- [DETR Notebook](notebooks/detr_on_kitti.py)
 
