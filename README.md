@@ -11,7 +11,7 @@ Car detection project comparing Faster R-CNN and DETR on the KITTI dataset.
 | Faster R-CNN | 0.88   | 0.69    | Good on small objects  |
 | DETR         | 0.83   | 0.62    | Promising results      |
 
-**Read the full article [here](https://medium.com/your-article-url)**
+**Read the full article [here](https://medium.com/@monishatemp20/faster-r-cnn-vs-detr-a-practical-lightweight-benchmark-for-real-world-car-detection-on-kitti-983c714e2da3)**
 
 ## Sample Predictions
 
